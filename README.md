@@ -42,7 +42,7 @@ chmod +x inspectorbin.sh
 ---
 
 ## Parametros:
-```java
+```python
 -c )	Comprueba si los comandos que especifiques existen en el sistema. (ej.: -c ls cat bash)
 
 -v )	Verificar si el directorio desde el que se ejecuta el script es seguro
