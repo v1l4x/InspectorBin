@@ -4,23 +4,40 @@
 
 ---
 
-## 🚀 Descripción
+Durante mi aprendizaje de Linux y Bash 🐚, me di cuenta de que **conocer lo básico no es suficiente**. Quería reforzar fundamentos mientras practicaba con scripts y ejercicios prácticos.  
 
-**InspectorBin** es una mini-herramienta en Bash diseñada para:
+Uno de esos ejercicios era simple: verificar comandos y directorios. Pero pensé: *“¿y si llevo esto un paso más allá y hago algo útil y visual?”*  
 
-- ✅ Verificar si los comandos que necesitas existen  
-- ⚠️ Comprobar si el directorio desde el que ejecutas el script es seguro  
-- 💻 Mostrar información del sistema y permisos de los scripts  
-- 🎨 Añadir un toque visual con **logo ASCII** y animación de puntos en movimiento  
-
-Esta es **la primera de muchas herramientas** que tengo planeadas, y me ha servido para aprender a **decorar scripts** y hacer la terminal más visual y divertida.  
+Así nació **InspectorBin**, una **mini-herramienta de diagnóstico y aprendizaje**, que combina utilidad y estética en la terminal.
 
 ---
 
-## ⚙️ Instalación
+## 🛠️ Funcionalidades
 
-1. Descarga el script desde GitHub:  
+- ✅ **Verificación de comandos:** Comprueba si los comandos que necesitas existen en tu sistema.  
+- ⚠️ **Seguridad del directorio:** Detecta si el script se ejecuta desde un directorio inseguro (como `/tmp`).  
+- 💻 **Información del sistema:** Muestra usuario, hostname, sistema operativo, versión de Bash y PATH.  
+- 🔒 **Permisos del script:** Verifica si el script es ejecutable.  
+- 🎨 **Visual y animado:** Animación de puntos mientras se realiza la consulta, haciendo la terminal más atractiva.  
+
+---
+
+## 📥 Instalación
+
+1. Clona el repositorio:
 
 ```bash
 git clone https://github.com/v1l4x/InspectorBin.git
-cd InspectorBin
+```
+2. Darle permisos de ejecución
+
+```bash
+chmod +x inspectorbin.sh
+```
+3. Ejecutar el script
+
+```bash
+./inspectorbin.sh
+```
+---
+
