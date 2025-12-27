@@ -22,5 +22,5 @@ Esta es **la primera de muchas herramientas** que tengo planeadas, y me ha servi
 1. Descarga el script desde GitHub:  
 
 ```bash
-git clone https://github.com/TuUsuario/InspectorBin.git
+git clone https://github.com/v1l4x/InspectorBin.git
 cd InspectorBin
