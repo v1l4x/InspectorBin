@@ -1,9 +1,6 @@
 
- _                           _             _     _       
-(_)_ __  ___ _ __   ___  ___| |_ ___  _ __| |__ (_)_ __  
-| | '_ \/ __| '_ \ / _ \/ __| __/ _ \| '__| '_ \| | '_ \ 
-| | | | \__ \ |_) |  __/ (__| || (_) | |  | |_) | | | | |
-|_|_| |_|___/ .__/ \___|\___|\__\___/|_|  |_.__/|_|_| |_|
+<img width="458" height="73" alt="Captura de pantalla 2025-12-27 221623" src="https://github.com/user-attachments/assets/b976071b-1c21-43a8-9e50-fa7832713e18" />
+
 🔍 InspectorBin v1.0 - Herramienta de diagnóstico
 
 ---
