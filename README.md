@@ -42,10 +42,16 @@ chmod +x inspectorbin.sh
 ---
 
 ## Parametros:
+```bash
+-c	Comprueba si los comandos que especifiques existen en el sistema. (ej.: -c ls cat bash)
 
-1. -c	Comprueba si los comandos que especifiques existen en el sistema. (ej.: -c ls cat bash)
-2. -v	Verificar si el directorio desde el que se ejecuta el script es seguro
-3. -i	Mostrar información del sistema
-4. -p	Verificar permisos del script
-5. -V	Mostrar versión de InspectorBin
-6. -h	Mostrar ayuda detallada
+-v	Verificar si el directorio desde el que se ejecuta el script es seguro
+
+-i	Mostrar información del sistema
+
+-p	Verificar permisos del script
+
+-V	Mostrar versión de InspectorBin
+
+-h	Mostrar ayuda detallada
+```
