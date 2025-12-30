@@ -1,6 +1,10 @@
 
+# InspectorBin v1.0 🔍
+### Herramienta de Diagnóstico y Auditoría de Entorno para Linux
 
-<img width="472" height="118" alt="inspectorbin" src="https://github.com/user-attachments/assets/d5606ce9-3ee1-4034-a63b-ffad779d86d7" />
+<p align="center">
+  <img src="https://github.com/v1l4x/InspectorBin/blob/main/InspectorBin.png?raw=true" width="50%">
+</p>
 
 ---
 
